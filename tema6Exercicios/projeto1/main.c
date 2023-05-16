@@ -6,7 +6,7 @@
 
 void main() {
 
-    int qtd = 10;
+    int qtd = 100;
     int numeros[qtd];
 
     for (int i = 0; i < qtd; i++) {
